@@ -1,2 +1,2 @@
-# Landing_Page
-stack used to make this landing page - HTML , CSS , JS..
+# Projects of Internship..
+1.Landing Page - Stack Used HTML, CSS..
