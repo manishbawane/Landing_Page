@@ -1,3 +1,12 @@
 # Internship Projects..
-1.Landing Page - Stack Used HTML, CSS..
-2.To-Do-List - Stack used HTML, CSS, JS...
+This are the projects i made during my internship at octanet.
+
+1.Landing Page -
+.HTML
+.CSS
+.JavaScript
+
+2.To-Do-List -
+.HTML  
+.CSS
+.JavaScript
