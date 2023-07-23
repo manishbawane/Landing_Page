@@ -10,3 +10,8 @@ This are the projects i made during my internship at octanet.
 .HTML  
 .CSS
 .JavaScript
+
+3.Clone Website -
+.HTML
+.CSS
+.Javascript
