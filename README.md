@@ -1,17 +1,7 @@
-# Internship Projects..
-This are the projects i made during my internship at octanet.
-
+# Simple Landing Page..
 1.Landing Page -
 HTML,
 CSS,
 JavaScript
 
-2.To-Do-List -
-HTML,  
-CSS,
-JavaScript
 
-3.Clone Website -
-HTML,
-CSS,
-Javascript
